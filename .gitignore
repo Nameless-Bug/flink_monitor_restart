@@ -1,0 +1,12 @@
+.cache
+.classpath
+.idea
+.metadata
+.settings
+.project
+*.class
+*.iml
+*.swp
+*.jar
+*.zip
+.DS_Store
